@@ -1,4 +1,5 @@
 from turtle import*
+import turtle
 t=Turtle()
 title("PUBG BY SURAJ")
 shape("turtle")
@@ -109,5 +110,5 @@ forward(60)
 left(90)
 forward(50)
 
-
+turtle.exitonclick()
 # Thank you 😊
