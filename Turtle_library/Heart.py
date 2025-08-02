@@ -1,4 +1,5 @@
 from turtle import*
+import turtle
 t=Turtle()
 t.hideturtle()
 title("Heart")
@@ -15,5 +16,6 @@ circle(50,200)
 forward(133)
 end_fill()
 fillcolor("red")
+turtle.exitonclick()
 
 # Thank you 😊
