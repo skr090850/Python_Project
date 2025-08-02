@@ -1,4 +1,5 @@
 from turtle import*
+import turtle
 t=Turtle()
 bgcolor("skyblue")
 title("Indian Flag")
@@ -70,6 +71,6 @@ right(90)
 circle(5,360)
 end_fill()
 fillcolor("yellow")
-
+turtle.exitonclick()
 # Thank you
 
