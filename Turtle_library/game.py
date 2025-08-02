@@ -1,4 +1,5 @@
 from turtle import*
+import turtle
 t1=Turtle()
 t2=Turtle()
 ht()
@@ -39,3 +40,4 @@ for j in range(40):
         t1.fd(5)
         t1.pendown()
 
+turtle.exitonclick()
