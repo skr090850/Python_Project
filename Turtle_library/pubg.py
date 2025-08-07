@@ -10,7 +10,7 @@ pensize(9)
 #straight
 forward(180)
 left(90)
-#tur
+#turn
 #straight
 forward(40)
 right(90)
